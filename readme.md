@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="400" height="400" src="awesome-rubiks.png" alt="awesome">
+	<img width="350" height="350" src="awesome-rubiks.png" alt="awesome">
 </h1>
 
 # Awesome-rubiks-cube [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
