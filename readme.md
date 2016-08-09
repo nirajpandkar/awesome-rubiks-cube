@@ -49,6 +49,7 @@ Work in progress
 ## Forums
 
 * [Speed Solving](https://www.speedsolving.com/) - The most active community forum. 
+* [Reddit](https://www.reddit.com/r/Cubers/) - Reddit cubing community for updates in the cubing world.
 
 ## Competition Websites
 
