@@ -14,6 +14,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 * [Cubes](#cubes)
 * [Cube Reviews](#cube-reviews)
 * [Methods to solve the cube](#methods-to-solve-the-cube)
+* [Online Timers](#online-timers)
 * [Forums](#forums)
 * [Competition Websites](#competition-websites)
 * [Stores](#stores)
@@ -45,6 +46,12 @@ Work in progress
 * [Friedrich Method(F2L or CFOP)](https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/) - Advanced method which is famous and widely used.
 * [Roux Method](https://www.speedsolving.com/wiki/index.php/Roux_Method)
 * [ZZ](https://www.speedsolving.com/wiki/index.php/ZZ_Method)
+
+## Online Timers
+
+* [CubeTimer](http://www.cubetimer.com/) - Focuses only on timer and does it best.
+* [CubingTime](http://cubingtime.com/timer) - Also provides online competing along with a timer.
+* [Ruwix](https://ruwix.com/online-rubiks-stopwatch-timer/) - Minimal GUI with a performance graph to monitor your progress.
 
 ## Forums
 
