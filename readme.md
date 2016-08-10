@@ -18,6 +18,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 * [Forums](#forums)
 * [Competition Websites](#competition-websites)
 * [Stores](#stores)
+* [Miscellaneous](#miscellaneous)
 
 ## Tutorials
 
@@ -68,6 +69,10 @@ Work in progress
 * [Cubicle](www.thecubicle.us) - The largest puzzle vendor on the web.
 * [Rubik's Store](https://www.rubiks.com/store) - The official Rubik's brand store.
 * [Cubelelo](http://www.cubelelo.com/) - Fast delivery with satisfactory shipments.
+
+## Miscellaneous
+
+* [Road to Sub-10](https://www.speedsolving.com/forum/threads/how-to-get-faster-using-the-fridrich-cfop-method.6085/) - Steps to guide you from 1:30+ to sub-10 second solve.
 
 ## Licence
 
