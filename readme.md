@@ -28,6 +28,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 * [Official site](https://www.rubiks.com/) - To the point explanation aided with decent graphic content.
 * [Youcandothecube](http://www.youcandothecube.com/secret-unlocked/solution-stage-one.aspx) - Guide with nice visualizations.
 * [Official Roux Method](http://grrroux.free.fr/method/Intro.html) - Roux explained by Gilles Roux.
+* [Lubix Cube](http://lubixcube.com/Roux.html) - Comprehensive Roux method video tutorials. 
 
 ### Advanced
 
