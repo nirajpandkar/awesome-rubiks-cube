@@ -27,6 +27,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 * [Dan Brown](https://www.youtube.com/watch?v=HsQIoPyfQzM) - A concise and beginner-friendly video tutorial.
 * [Official site](https://www.rubiks.com/) - To the point explanation aided with decent graphic content.
 * [Youcandothecube](http://www.youcandothecube.com/secret-unlocked/solution-stage-one.aspx) - Guide with nice visualizations.
+* [Official Roux Method](http://grrroux.free.fr/method/Intro.html) - Roux explained by Gilles Roux.
 
 ### Advanced
 
