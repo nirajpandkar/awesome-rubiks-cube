@@ -29,9 +29,9 @@ Looking for contributors. Submit a pull request if you have something to add :)
 * [Youcandothecube](http://www.youcandothecube.com/secret-unlocked/solution-stage-one.aspx) - Guide with nice visualizations.
 * [Official Roux Method](http://grrroux.free.fr/method/Intro.html) - Roux explained by Gilles Roux.
 * [Lubix Cube](http://lubixcube.com/Roux.html) - Comprehensive Roux method video tutorials. 
+- [CubeMastery](https://cubemastery.com/rubiks-cube-tutorial-step-by-step/) -  Step-by-step beginner guide to solving the Rubik's Cube, with practice tips and 
 
 ### Advanced
-
 * [Badmephisto](http://badmephisto.com/) - Text as well as video tutorials with extensive explanation and tips.
 
 ## Cubes
